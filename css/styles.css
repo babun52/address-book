@@ -1,0 +1,11 @@
+#contact, #detail {
+  display: none;
+}
+
+li {
+  cursor: pointer;
+}
+
+span {
+  font-weight: normal;
+}
